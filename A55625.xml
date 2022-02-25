@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Varieties of villany as murther, maiming, theft, perjury upon perjury. And many other infamous matters, set forth at large, and published, in the case (with its proofs and evidences) of John Praed, respondent, to the appeal of VVilliam VVarre. VVhich came to a hearing at the bar of the House of Lords, on the 27th of January 1692/3, and went for the respondent nemisie contradicente.</title>
+            <author>Praed, John, fl. 1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55625</idno>
+            <idno type="STC">Wing P3165</idno>
+            <idno type="STC">ESTC R222494</idno>
+            <idno type="EEBO-CITATION">99833660</idno>
+            <idno type="PROQUEST">99833660</idno>
+            <idno type="VID">38138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Varieties of villany as murther, maiming, theft, perjury upon perjury. And many other infamous matters, set forth at large, and published, in the case (with its proofs and evidences) of John Praed, respondent, to the appeal of VVilliam VVarre. VVhich came to a hearing at the bar of the House of Lords, on the 27th of January 1692/3, and went for the respondent nemisie contradicente.</title>
+                  <author>Praed, John, fl. 1711.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper in Fleetstreet, and S. Bristol in Covent-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cropped with some loss of print.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Praed, John, fl. 1711 --  Early works to 1800.</term>
+               <term>Warre, William --  Early works to 1800.</term>
+               <term>Trials (Murder) --  England --  Early works to 1800.</term>
+               <term>Trials (Robbery) --  England --  Early works to 1800.</term>
+               <term>Trials (Perjury) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38138:1"/>
+            <pb facs="tcp:38138:1" rendition="simple:additions"/>
+            <p>Varieties of Villany: AS,
+<list>
+                  <item>
+                     <hi>Murther,</hi>
+                  </item>
+                  <item>
+                     <hi>Maiming,</hi>
+                  </item>
+                  <item>
+                     <hi>Theft,</hi>
+                  </item>
+                  <item>
+                     <hi>Perjury upon Perjury.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>AND Many other Infamous Matters Set forth at Large, and Publiſhed,</p>
+            <p>IN THE CASE (With its Proofs and Evidences) OF JOHN PRAED, Reſpondent, To the Appeal of VVILLIAM VVARRE.</p>
+            <p>VVhich came to a Hearing at the Bar of the Houſe of LORDS, on the <hi>27th</hi> of <hi>January</hi> 1692/3. and went for the Reſpondent <hi>Nemine Contradicente.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> in <hi>Fleetſtreet,</hi> and <hi>S. Briſcoe</hi> in <hi>Covent-Garden,</hi> 1693.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38138:2" rendition="simple:additions"/>
+            <pb facs="tcp:38138:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>I</hi> Should here Excuſe this unexpected Preſumption, if I had not been as unfit to make Apologies, as I am to Play an After-Game of Reputation, eſpecially in Print.</p>
+            <p>But he that can't Fence ſo well, is more oblig'd to Fight, upon Punctilio, and juſt Oc<g ref="char:EOLhyphen"/>caſion, than the greateſt <hi>Maſter of the Noble Science;</hi> And though <hi>the Preſs</hi> (by Fools and Knaves) is become almoſt as Scan<g ref="char:EOLhyphen"/>dalous as the <hi>Yard</hi> that goes by that Name, yet ſome Men will adventure therein, like thoſe that hazard the Infamy of Hanging to ſave their Notions of Honour.</p>
+            <p>But there is little of that the Mer<g ref="char:EOLhyphen"/>chants call <hi>Honour</hi> to be got, where ſo much Intereſt is loſt; and therefore the
+<pb facs="tcp:38138:3"/>thing will the better Anſwer my Expecta<g ref="char:EOLhyphen"/>tion: And I am ſorry I muſt here ſay that ſo many of the Merchants (upon miſ<g ref="char:EOLhyphen"/>information) have done me all the Miſchief that lay in their Power, at the ſame time when I was adventuring Life, Fame and Fortune for them; as will partly appear by ſome of the following Letters, which I ſhould not inſert, but that (by Order of Court, as they concern'd the Caſe) they were produc'd before the Maſter in Chan<g ref="char:EOLhyphen"/>cery: And a Man (however Modeſt he otherways may be) will do as much to main<g ref="char:EOLhyphen"/>tain his Cauſe and his Credit, as he would to Preſerve his Life, if it lay at Stake.</p>
+            <p>And this may be an acceptable time to ſerve my Country (as well as my own Satis<g ref="char:EOLhyphen"/>faction) ſince ſo many of the moſt Eminent Merchants of <hi>London,</hi> and ſo many other Men, are laying their Heads together to Settle the Trade of the Nation, and to Ob<g ref="char:EOLhyphen"/>ſtruct the Encreaſing Decay of <hi>Subſtantial</hi> Commerce.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38138:3"/>
+            <head>THE CASE OF JOHN PRAED Reſpondent, to the Petition and Appeal of WILLIAM WARRE.</head>
+            <p>THAT in, or about, the Year, 1679. the Appellant joined with Mr. <hi>Bonnel</hi> of <hi>London,</hi> Merchant (to whom the Re<g ref="char:EOLhyphen"/>ſpondent was formerly an Apprentice) to ſend the Re<g ref="char:EOLhyphen"/>ſpondent, as their Factor, to <hi>Zant,</hi> in Company with one Mr. <hi>Pendarves,</hi> who was then Conſul of the <hi>Morea.</hi>
+            </p>
+            <p>That although the Appellant was then a Member of the <hi>Turkey</hi>-Company (to whom the <hi>Morea</hi> Currans belonged) and had taken the uſual Oath of Fidelity to the ſaid Company;<note place="margin">The Appellant's Oath to the <hi>Turkey</hi>-Company broken.</note> yet he conſpired with one <hi>Daniel Gates,</hi> then of <hi>London</hi> Merchant; and in the Year 1680, ſent the Reſpondent a Free Commiſſion to buy up all the <hi>Morea</hi> Currans.</p>
+            <p>That the Reſpondent complied with the ſaid Commiſſion,<note place="margin">The Reſpondent to have <hi>8 perCent.</hi> for his com<g ref="char:EOLhyphen"/>pliance with the Appel<g ref="char:EOLhyphen"/>lant's Project.</note> and accordingly ſhipp'd all the <hi>Morea</hi> Currans, on the Ship <hi>Old African,</hi> Captain <hi>Joſeph Waters</hi> Commander, the Appellant having ordered the Reſpondent to draw 8 <hi>per Cent.</hi> Commiſſion money, which encouraged the Reſpondent to disburſe about Twenty thouſand Dollars on the account of the Currans aforeſaid,<note place="margin">
+                  <hi>20000</hi> Dollars Dis<g ref="char:EOLhyphen"/>burs'd by the Reſpon<g ref="char:EOLhyphen"/>dent.</note> which the Re<g ref="char:EOLhyphen"/>ſpondent had Orders to draw, by way of <hi>Venice,</hi> on one Mr. <hi>Williams</hi> and Partner, the Appellant's Correſpondents there.</p>
+            <pb n="2" facs="tcp:38138:4"/>
+            <p>That the <hi>Turkey</hi>-Company after the buying of the Currans afore<g ref="char:EOLhyphen"/>ſaid, made a Decree,<note place="margin">A Decree of the <hi>Tur<g ref="char:EOLhyphen"/>key</hi>-Comp. againſt the Reſpondent— under the Penalty of <hi>20 per Cent.</hi>
+               </note> that no one of them ſhould any more em<g ref="char:EOLhyphen"/>ploy the Reſpondent, under the Penalty of 20 <hi>per Cent.</hi> Not that the Reſpondent was ever employed by the <hi>Turkey</hi>-Company, or was he ever a Member thereof; but becauſe he was effectually faithful to the Appellant (his Employer) who had been ſo offen<g ref="char:EOLhyphen"/>ſively perfidious to them. And at the ſame time they turned Mr. <hi>Pendarves</hi> out of the Conſulſhip for the Appellant's Fault;<note place="margin">Mr. <hi>Pendarves</hi> turn<g ref="char:EOLhyphen"/>ed out of the Conſulſhip.</note> and becauſe there were Falſe Witneſſes ſuborned, and ſworn againſt him at <hi>Zant,</hi> &amp;c.</p>
+            <p>That,<note place="margin">The Reſpondent's Bills for the <hi>20000 Dollars</hi> not paid by the Appel<g ref="char:EOLhyphen"/>lant's Order.</note> after the ſame Ship was laden with the aforeſaid Currans, and ſent away, the ſaid Appellant, and the ſaid <hi>Gates</hi> ſent Orders to the ſaid <hi>Williams</hi> and Partner not to accept any of the Reſpon<g ref="char:EOLhyphen"/>dent's Bills; which Orders they complied withal, for not one Peny of the Reſpondent's Bills were ever paid.</p>
+            <p>That at the ſame time there lived in the Houſe of the Reſpon<g ref="char:EOLhyphen"/>dent and Partner,<note place="margin">
+                  <hi>Tavernor</hi> formerly an Apprentice to the Ap<g ref="char:EOLhyphen"/>pellant.</note> one <hi>Francis Tavernor,</hi> who was their Caſh, and Book-keeper, and had been Apprentice to the Appellant, when he formerly lived at <hi>Zant.</hi>
+            </p>
+            <p>That at the Reſpondent's going to <hi>Zant,</hi>
+               <note place="margin">The words of the Ap<g ref="char:EOLhyphen"/>pellant's Letter proved in <hi>Chancery.</hi>
+               </note> the Appellant wrote a Letter to the ſaid <hi>Tavernor,</hi> wherein were theſe Words: <hi>Now mind your buſineſs there, and let me alone for theſe Aſſes.</hi> And he ſo minded the buſineſs he was ſet about,<note place="margin">The Value of <hi>30000 Dollars</hi> ſtolen from the Reſpondent and <hi>Pendar<g ref="char:EOLhyphen"/>ves</hi> by the Order and Approbation of the Ap<g ref="char:EOLhyphen"/>pellant.</note> that after the Appellant had ordered the ſaid <hi>Williams,</hi> and Partner, not to accept the Reſpondent's Bills, He the ſaid <hi>Tavernor,</hi> ſtole, and run away with the ſaid Reſpondents, and Partners Papers, and Books, to the value of Thirty thouſand Dollars, and upwards, which <hi>was done by the Order and Approbation of the Appellant.</hi> And, ſince that, the ſaid <hi>Tavernor</hi> hath ſuffered for it,<note place="margin">
+                  <hi>Tavernor</hi> put into the Galley for the ſame.</note> both in Priſon, and in the Galley; though he was let out again by the <hi>Venetian</hi> Juſtices, for Money, and for ſome Reaſons of that State.</p>
+            <p>That ſome time ſince the Proveditore,<note place="margin">A Deſign to Aſſaſſi<g ref="char:EOLhyphen"/>nate <hi>Pendarves,</hi> and his loſing three of his Fin<g ref="char:EOLhyphen"/>gers.</note> or Governor, of <hi>Zant,</hi> deſigned to Aſſaſſinate the aforeſaid Mr. <hi>Pendarves,</hi> becauſe he would not comply with ſome Propoſals againſt the Intereſt of his Principals or Imployers; but he eſcaped with the loſs only of three of his Fingers.</p>
+            <pb n="3" facs="tcp:38138:4"/>
+            <p>That after that, there was an intention to Murder the Reſpon<g ref="char:EOLhyphen"/>dent.<note place="margin">
+                  <hi>Proved in Chancery,</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> An Intention to murder the Reſpondent by cutting his Throat.</item>
+                     <item>
+                        <hi>2.</hi> Two Perſons actu<g ref="char:EOLhyphen"/>ally murdered.</item>
+                     <item>
+                        <hi>3.</hi> Another Man woun<g ref="char:EOLhyphen"/>ded.</item>
+                  </list>
+               </note> And the aforeſaid <hi>Tavernor</hi> undertook to cut the Reſpon<g ref="char:EOLhyphen"/>dent's Throat whilſt he lay in his Bed, and had made Proviſion for th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purpoſe; but his heart failing him, five others were hired to accompliſh the deſign; and two of them repenting, diſcovered the Contrivance to the Reſpondent, for which they were both ſhot and killed. And, ſome time after that, another Perſon was wound<g ref="char:EOLhyphen"/>ed, almoſt to Death, upon the ſame Account.</p>
+            <p>That thereupon the Reſpondent was forced to leave the Iſland,<note place="margin">The Reſpondent forc'd to fly for his Life.</note> after he had ſuffered theſe and many other Injuries, and particu<g ref="char:EOLhyphen"/>larly a Petition for his Baniſhment,<note place="margin">The Original Petition for the Reſpondent's Ba<g ref="char:EOLhyphen"/>niſhment, Proved in <hi>Chancery,</hi> and the Tran<g ref="char:EOLhyphen"/>ſlation read at the Hea<g ref="char:EOLhyphen"/>ring of his Cauſe.</note> becauſe he would not comply with the <hi>Venetian</hi> Intereſt, as others did, againſt that of his own Country, and had written his Reaſons for it, with an Intention to publiſh them, becauſe they<note n="*" place="margin">
+                  <hi>Above</hi> 100000 l. per annum.</note> concerned this Nation above 100000 <hi>l. per annum.</hi>
+            </p>
+            <p>That by the unjuſt Proceedings aforeſaid of the Appellant,<note place="margin">The Reſpondent diſa<g ref="char:EOLhyphen"/>bled to follow his Pro<g ref="char:EOLhyphen"/>feſſion for <hi>10</hi> Years laſt paſt.</note> and his Accomplices, both the Reſpondent, and the aforeſaid <hi>Pendarves,</hi> have been utterly diſabled to follow their Profeſſion, thoſe ten Years and upwards; and the more, becauſe that, in all this time, they cannot have Juſtice done them at <hi>Zant,</hi> and <hi>Venice.</hi>
+            </p>
+            <p>That upon the Reſpondent's Arrival in <hi>England,</hi>
+               <note place="margin">The Appellant refuſed to account with the Re<g ref="char:EOLhyphen"/>ſpondent.</note> the Appel<g ref="char:EOLhyphen"/>lant, and the ſaid <hi>Gates</hi> refuſed to come to an Account with the Reſpondent, and both bid him take his Courſe at Law for his Pretenſions.</p>
+            <p>That the Reſpondent for want of the Papers,<note place="margin">The Reſpondent not able to Proſecute the Appellant for many years</note> 
+               <hi>&amp;c.</hi> ſtolen from him, could not proſecute the ſaid Appellant, and <hi>Gates,</hi> and was therefore forced to retire into the Country, where he lived for ſome Years, until the Appellant preferred his Bill in the <hi>Exchequer,</hi>
+               <note place="margin">The Suit in the <hi>Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+               </note> againſt the ſaid <hi>Gates,</hi> for an Account of the Currans aforeſaid.</p>
+            <p>That in the Pleadings in the <hi>Exchequer</hi> between the ſaid Parties it appeareth that the Currans for which the ſaid Reſpondent de<g ref="char:EOLhyphen"/>mandeth Satisfaction,<note place="margin">The Currans came ſafe to the Appellant's or <hi>Gates</hi>'s hands, and they proved Partners.</note> came ſafe to the Hands of the ſaid Appel<g ref="char:EOLhyphen"/>lant, or the ſaid <hi>Gates,</hi> and that the ſaid Appellant, and the ſaid <hi>Gates</hi> were then Partners.</p>
+            <pb n="4" facs="tcp:38138:5"/>
+            <p>That thereupon the ſaid Reſpondent exhibited his Bill in <hi>Chan<g ref="char:EOLhyphen"/>cery</hi> againſt the ſaid Appellant,<note place="margin">The Reſpondent's Bill in <hi>Chancery.</hi>
+               </note> and the Adminiſtratrix of <hi>Daniel Gates,</hi>
+               <note place="margin">The Appellants and <hi>Gates</hi> decreed to ac<g ref="char:EOLhyphen"/>count with the Reſpon<g ref="char:EOLhyphen"/>dent, and to pay Intereſt.</note> to have an Account, and Satisfaction, for the ſaid Currans; and Witneſſes being examined, this Cauſe came to Hearing the 1ſt. of <hi>Dec.</hi> 1691. Whereupon, and upon reading the Proceedings in the <hi>Exchequer,</hi>
+               <note place="margin">The Caſe appearing ſo cruel to the Court, they ordered the Reſpondent's Coſts to the Hearing, for Non-payment whereof, the Appellant ſtands in Contempt to a Commiſ<g ref="char:EOLhyphen"/>ſion of Rebellion.</note> the Court was well ſatisfied that the Appellant was a Partner with the ſaid <hi>Daniel Gates</hi> for the aforeſaid Currans, and that they ought to account to the Reſpondent for the ſame. And thereupon it was referred to Sir <hi>John Francklin,</hi> to examine, and ſee, what was due to the ſaid Reſpondent, for the ſaid Currans, and to compute Intereſt for the ſame, and to tax the Reſpondent his Coſts to the day of Hearing.</p>
+            <p>That ſince the ſaid Hearing,<note place="margin">Reſpondent's Charge amounts to <hi>8000 l.</hi> whereof only <hi>1100 Dol<g ref="char:EOLhyphen"/>lars</hi> confeſſed by the Re<g ref="char:EOLhyphen"/>ſpondent to be paid, and not one Peny more pro<g ref="char:EOLhyphen"/>ved to the contrary.</note> the Reſpondent, and Appellant have attended the ſaid Maſter upon the ſaid Account, and the Reſpondent's Charge amounted to about 8000 <hi>l.</hi> as the ſaid Reſpondent hath ſufficiently proved. And neither the ſaid Ap<g ref="char:EOLhyphen"/>pellant, nor the ſaid <hi>Gates,</hi> have proved one Peny paid towards Satisfaction of the ſaid Currans, more than what the ſaid Re<g ref="char:EOLhyphen"/>ſpondent, hath in his Examination, confeſs'd, which amounts to about 1100 Dollars.<note place="margin">The Maſter of the Ship <hi>Old African</hi> that laded the Currans, and the Appellant's own Correſpondent at <hi>Venice,</hi> witneſſes againſt him, in <hi>Chancery.</hi>
+               </note>
+            </p>
+            <p>That the ſaid Maſter being ready to make his Report,<note place="margin">Appeal.</note> the ſaid Appellant, farther to delay the Reſpondent, hath appealed from the ſaid Decree, and the ſeveral Orders made thereupon.</p>
+            <div type="case">
+               <head>Part of the Appellant's Caſe.</head>
+               <p>THat the Reſpondent (with the Moneys, and Effects ſent him, and Mr. <hi>Pendarves</hi> his Partner there, and ſolely upon the ſaid <hi>Gates</hi>'s Account) did Buy, and Lade the Ship with Currans, for <hi>Gates.</hi>
+               </p>
+               <p>That there is not any Proof of the Appellants being concern<g ref="char:EOLhyphen"/>ed with <hi>Gates,</hi> in ſending for the Currans to the Reſpondent.</p>
+               <p>☞ And the Appellant hath denied it on his Oath.</p>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:38138:5"/>
+               <head>Part of <hi>Gate's</hi> his Commiſſion to the Reſpondent.</head>
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>25th <hi>June,</hi> 1680.</date>
+                  </dateline>
+               </opener>
+               <p>HAving Ordered Capt. <hi>Waters,</hi>
+                  <note place="margin">Which Letter, toge<g ref="char:EOLhyphen"/>ther with this Commiſ<g ref="char:EOLhyphen"/>ſion, came inclos'd in the following Letter from the Appellant; the Original whereof was ſtolen from the Reſpon<g ref="char:EOLhyphen"/>dent by <hi>Tavernor,</hi> and ſince that it came into the hands of the <hi>Turkey</hi> Company who have it by them.</note> Commander of my Ship Afri<g ref="char:EOLhyphen"/>can, to follow your Orders at <hi>Zant,</hi> as you'll perceive by the incloſed Letter to him— Adviſe me from time to time, what occurs, the whole Deſign depends upon Secreſie to all other Perſons, but your Self, and <hi>Francis Tavernor.</hi> I remain,</p>
+               <closer>
+                  <signed>
+                     <hi>Your loving Friend,</hi> Daniel Gates.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>Part of the Appellant's Commiſſion.</head>
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>25. <hi>June</hi> 1680.</date>
+                  </dateline>
+               </opener>
+               <p>YOu'll have ſeen by what I have wrote at large, at preſent and before, how very unworthily the <hi>Morea</hi> Committee have been to honeſt Mr. <hi>Pendarves,</hi> and I am reſolved to be quits with them if poſſible.— Wherefore to be brief, the Ship <hi>A<g ref="char:EOLhyphen"/>frican</hi> is order'd to be with you by the 10th of <hi>Auguſt</hi> Old Style; and here inclos'd you have an Order from Mr. <hi>Gates</hi> to Capt. <hi>Wa<g ref="char:EOLhyphen"/>ters,</hi> to follow your Order.—If the Ship loads from the <hi>Mo<g ref="char:EOLhyphen"/>rea,</hi> then ſhe is for account of Mr. <hi>Gates</hi> and Company, but let it be ſpecified in the Bill of Lading for account of whom it con<g ref="char:EOLhyphen"/>cerns, which be ſure you ſend to me, the Bill of Lading to be delivered in <hi>Amſterdam</hi> in blank— As ſoon as this comes to your hands, conſult with <hi>Tavernor</hi> privately, and ſend over <hi>Lazari</hi> to <hi>Capparre</hi> all the <hi>Morea</hi> Currans, under pretence of buying the <hi>Theacra</hi> Currans.— I am ſure you can manage this much better, than I can direct you, and do conjure you to do, what Man can do, in this Matter.— You muſt keep it very privately.— In fine, do what Man can do to gratifie your Friends in this particular; for the <hi>Morea</hi> Committee have affronted that good Man ſo much, that I cannot endure it.— You muſt not mention one word of this to Mr. <hi>Bonnel</hi>'s.— Draw 8 <hi>per Cent.</hi> Commiſſion if ſhe loads in the <hi>Morea.</hi>—If ever you'll gratifie or oblige me, endeavour to make this Buſineſs take effect— Leave no Stone unturn'd, and you ſhall ſee how grate<g ref="char:EOLhyphen"/>fully it ſhall be reſented by,</p>
+               <closer>
+                  <signed>
+                     <hi>Your affectionate Friend</hi> 
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </signed>
+               </closer>
+            </div>
+            <div type="bill">
+               <pb n="6" facs="tcp:38138:6"/>
+               <head>Part of the Appellants Bill, againſt <hi>Gates,</hi> in the <hi>Exchequer.</hi>
+               </head>
+               <p>HUmbly complaining ſheweth— that in or about the year 1680, the Orator <hi>William Warre,</hi> and one <hi>Daniel Gates,</hi>
+                  <note place="margin">
+                     <hi>Gates</hi> kept all the Ships Cargo, and <hi>Warre</hi> ſued him in the Exche<g ref="char:EOLhyphen"/>quer for his ſhare, though neither of them paid the Reſpondent.</note> having truſt, and confidence each in the other, did, in Copartner<g ref="char:EOLhyphen"/>ſhip, and as equal ſharers, Import from the parts beyond the Seas to <hi>London</hi> in the Ship call'd the <hi>African,</hi> whereof <hi>Joſeph Waters</hi> then was Commander, two hundred and ſixteen Butts, ſixty ſix Carratels, and fifty Quarter Rolls, to the value then of ſix thou<g ref="char:EOLhyphen"/>ſand pounds, and upwards.</p>
+            </div>
+            <div type="answer">
+               <head>Part of <hi>Gates</hi> his Anſwer to the aforeſaid Bill.</head>
+               <p>THIS Defendant ſaith, that the Complainant being juſtly in<g ref="char:EOLhyphen"/>debted to the Defendant in the year 1679. in the ſumm of 1120 <hi> l. ſteri.</hi> — the Complainant afterwards in the year 1680. propoſed to this Defendant, for the accommodation of the diffe<g ref="char:EOLhyphen"/>rences that were then on Foot— then to become Partner with the Defendant, in the Lading the <hi>African</hi> Frigat in the Bill men<g ref="char:EOLhyphen"/>tion'd— And thereupon it was agreed between the Complai<g ref="char:EOLhyphen"/>nant and the Defendant, that the ſaid Ship ſhould be Laden with Currans by Mr. <hi>John Praed</hi> Merchant in <hi>Zant,</hi> who was the Com<g ref="char:EOLhyphen"/>plainants Correſpondent, and that what Money the Defendant had on Board the ſaid Ship, ſhould be paid to the ſaid Mr. <hi>John Praed</hi> towards the Lading the ſaid Ship, and the Complainant did undertake to pay the Remainder of the Money— And it was then alſo agreed that when the Currans were ſold, this De<g ref="char:EOLhyphen"/>fendant ſhould be paid all that was, and ſhould be due unto him— But this Defendant ſaith, that though this ſaid Complainant did agree, as aforeſaid, to pay the remainder of what the ſaid Ships Lading ſhould amount to, yet the Complainant never paid any part of the Money, as this Defendant hath been inform'd by the ſaid <hi>Praed,</hi> &amp;c.— After which former agreements, and before the arrival of the ſaid Ship, the ſaid Complainant became farther indebted to this Defendant in about one thouſand pounds more, and then the Complainant and Defendant did agree that the Defendant ſhould ſell all the ſaid Currans — And that this Defendant ſhould be paid all the ſeveral ſumms in the Sehedule herewith annexed.</p>
+            </div>
+            <div type="affidavit">
+               <pb n="7" facs="tcp:38138:6"/>
+               <head>Part of the Appellants Affidavit—</head>
+               <p>THE ſaid Defendant <hi>William Warre</hi> maketh Oath that when the Currans in queſtion were ſhipped, he this Deponent was advis'd from <hi>Zant,</hi> that they coſt conſiderably leſs, than the Plain<g ref="char:EOLhyphen"/>tiff doth charge them at — And this Deponent farther ſaith, that at, or ſoon after the time of ſhipping the ſaid Currans, the Complainant, or the Complainant and Partner did order Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Williams</hi> and Company, reſiding at <hi>Venice,</hi> to draw ſeveral ſumms of Money, at ſeveral times, on this Deponent, on account of the ſaid Ship of <hi>African</hi> Currans now in queſtion, which this De<g ref="char:EOLhyphen"/>ponent accordingly paid, and this Deponent witneſſes, who can prove the ſending down the ſaid Money to <hi>Zant,</hi> to the Plaintiff, and Partner.</p>
+            </div>
+            <div type="deposition">
+               <head>Part of the Depoſition of Mr. <hi>Abraham Anſelme,</hi> who was Partner with Mr. <hi>Williams</hi> at <hi>Venice.</hi>
+               </head>
+               <p>
+                  <hi>ABraham Anſelme</hi> Gentleman, formerly examin'd for the De<g ref="char:EOLhyphen"/>fendant in this Cauſe, was on the 25th of <hi>November</hi> 1692. ſworn, and croſs examin'd, depoſeth and ſaith —</p>
+               <p>To the ſixth <hi>Interogatory</hi> this Deponent ſaith, that during the time this Deponent was at <hi>Venice</hi> he cannot remember that he, or his Partner Mr. <hi>Thomas Williams</hi> did receive any Orders from the Defendant <hi>Warre,</hi> or the ſaid <hi>Daniel Gates,</hi> or either of them to ſend down any ſumm of Money to the Complainant <hi>Praed,</hi> upon his Particular account, or that any ſumm, or ſumms, of Money whatſoever was ſent down, or remitted upon the ſaid Complai<g ref="char:EOLhyphen"/>nants particular account, but ſaith, that very conſiderable ſumms of Money were ſent down, and remitted, by this Deponent, and his ſaid Partner, by the Order of the Defendant <hi>Warre</hi> and <hi>Gates,</hi> upon the joint account, to the ſaid Complainant, and one <hi>Pendarves</hi> his Partner — To the ſeventh <hi>Interogatory</hi> this Deponent ſaith — And farther ſaith, that he believes, that after the lading the afore<g ref="char:EOLhyphen"/>ſaid Currans, this Deponent and his Partner did receive Orders from the Defendant <hi>Warre,</hi> and the ſaid <hi>Gates,</hi> not to accept of any more Bills from the Complainant —</p>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:38138:7"/>
+               <head>A Letter Written by Mr. <hi>Williams</hi> to the Reſpondent.</head>
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>
+                     <hi>Venice</hi> 
+                     <date>17th <hi>July</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>VVE have yours <hi>10th June,</hi> with a Bill on our ſelves for the 6000 Dollars which we ſhall draw forwards on Mr. <hi>Dan. Gates,</hi>
+                  <note place="margin">This Money was never ſent to me nor to Mr. <hi>Pendarves.</hi> And <hi>Warre</hi> (by a miſtake) produced a Letter from <hi>Williams</hi> before the Maſter in Chancery, wherein <hi>Wil<g ref="char:EOLhyphen"/>liams</hi> wrote him how he had trickt me about the 6000 Dollars.</note> and ſend you the ſame <hi>per</hi> Captain <hi>Paxton,</hi> conſigning it to your ſelf.</p>
+            </div>
+            <div type="deposition">
+               <head>Part of the Depoſition of Captain <hi>Waters</hi> Commander of the <hi>African</hi> aforeſaid</head>
+               <p>AND this Deponent farther ſaith, that the price of Currans at the <hi>Morea</hi> was then three Dollars, and three quarters <hi>per</hi> Sack, as this Deponent verily believes; for that he then paid at that rate himſelf for Currans he bought there.</p>
+            </div>
+            <div type="letters">
+               <head>Parts of ſeveral Letters from Mr. <hi>Warre</hi> perſuading me to come Home for ſeveral pretended reaſons.<note place="margin">Which were never paid.</note>
+               </head>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London</hi> 
+                        <date>1ſt. <hi>April</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>*THE Moneys you have drawn on account of the <hi>Old African</hi> ſhould have been on Mr. <hi>Gates,</hi> and therefore what you have further to draw on that account, let it be on him, and that you may be ſure of his compliance,<note place="margin">His deſign was under pretence of Vindicating Mr. <hi>Pendarves</hi> to have me ruin'd for a reaſon, as I may hereafter ſhew the World.</note> the Currans you ſhall load on the <hi>Zanteote</hi> let come Hypothecated to Mr. <hi>Walter Atwood</hi> for payment of the ſame; tho' at <hi>Venice</hi> I am ſure* <hi>Williams</hi> hath Or<g ref="char:EOLhyphen"/>der to accept and pay whatever you draw; — You will hear how the Turky Company have dealt with you upon account of the Morea Commiſſion, they have made a Decree of Court that no Man of them all ſhall employ you for the future under the penalty of 20 <hi>per cent.</hi>
+                  </p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London</hi> 
+                        <date>4th <hi>April,</hi> 1681.</date>
+                     </dateline>
+                     <note place="margin">Here he contradicts himſelf.</note>
+                  </opener>
+                  <p>VVHAT Currans you are to load for <hi>Gates</hi> conſign to Mr. <hi>John Banks,</hi>
+                     <note place="margin">And yet <hi>Gates</hi> and he proteſted our Bill then after for 3000 Dollars.</note> writing a formal Letter with them, and let all come under my Covert. But I have taken care that there is effectual Credit for you at <hi>Venice;</hi> therefore do not hypothe<g ref="char:EOLhyphen"/>cate, but conſign the Currans to Mr. <hi>John Banks.</hi>
+                  </p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London</hi> 
+                        <date>8th <hi>June</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Hope this may find you well arrived at <hi>Venice,</hi> in order to your proceeding home, which pray proſecute with all expedition,
+<pb n="9" facs="tcp:38138:7"/>for we ſhall have a Parliament ſpeedily, that will ſmoak off the Company; for they will pay dearly for their <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> day.</p>
+                  <p>Now you muſt know that <hi>Gates</hi> plays the Rog<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> therefore be ſure you hypothicate all his Currans under <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vert, and then I'le handle him well enough.<note place="margin">
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> In caſe you <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not home your ſelf, ſend a Procure to Mr. <hi>Edward Ambroſe</hi> to de<g ref="char:EOLhyphen"/>mand Twenty thouſand Dollars of <hi>Gates,</hi> and Damages,<note place="margin">
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Advice <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, I ſhould have Paid for my Folly.</note> and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> he ſhall Pay for his Knavery in due time. Be ſure you conſider well of this Affair; but if you come in Perſon, all will be imme<g ref="char:EOLhyphen"/>diately effected, which I intreat you to do, and to ſettle all Mat<g ref="char:EOLhyphen"/>ters beſides; for you ſee all Letters are directed to Mr. <hi>Pendar<g ref="char:EOLhyphen"/>ves</hi> only; therefore pray fail not to come Home, without one Minutes delay. I will provide<note n="*" place="margin">When he had broke it.</note> the Houſe good Buſineſs. Be ſure you bring all <hi>Gates</hi> his Letters with you.—</p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>22 <hi>July,</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>BE ſure you ſend me two Procures, one in the Name of Mr. <hi>Ambroſe,</hi> and another in my Name; and ſend me the Originals of <hi>Gates</hi> his Letters per firſt.<note place="margin">Another Project that I might have nothing to ſhew for my Money.</note> But if you come your ſelf, all will be adjuſted in 24 Hours; for <hi>Gates</hi> plays the Rogue with me moſt abominably; Therefore, I ſay, that you muſt come Home; if not, there's nothing to be done with him.—</p>
+                  <p>I have Paid your Bills in near Four Thouſand Pounds ſterling,<note place="margin">And yet he never Paid one Peny.</note> and have not received one Peny of <hi>Gates;</hi> therefore I beſeech you to come Home. Come away immediately, and all will be well; otherwiſe I muſt redraw on you.—</p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>5th <hi>Auguſt,</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Do much wonder you continue Drawing, I muſt Re-charge it on you again.<note place="margin">And though he would not Pay my Bills, I was conſtrain'd by my Cir<g ref="char:EOLhyphen"/>cumſtances to Pay his.</note> I have this day Drawn on you 2000 Ducats, payable to Mr. <hi>Williams.</hi>—</p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>14th <hi>Octob.</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>UNderſtanding you are returned from <hi>Venice</hi> to <hi>Zant,</hi> and are not coming Home, I will accept no more Bills. I am almoſt quite diſtracted, and know not what to do, nor what I write, when had you come Home, all had been obviated. Now I know not what to write, nor what to do. You muſt make the beſt ſhift you can; but unleſs you come home, nothing can be done.—</p>
+               </div>
+               <div type="letter">
+                  <pb n="10" facs="tcp:38138:8"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>27th <hi>September,</hi> 1681.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Have all yours to the 5th of <hi>September,</hi> and am quite diſtracted when I conſider under what Circumſtances we all lye, and all by your not coming Home, as I beg'd and intreated you; and what ſhould poſſeſs you not to do it, I cannot tell.— Mr. <hi>Bonnel</hi> is willing with all his heart.<note place="margin">And yet Mr. <hi>Bonnel</hi> writ me the contrary by the ſame Poſt.</note> Wherefore I pray, and beſeech you to come away— Once more, I beſeech you, for Gods ſake to come Home; for we have a Partner in our Eye, that will bring good Buſineſs to the Houſe. But nothing can be done, unleſs you come Home, for <hi>Gates</hi> plays the Knave ſo damnably with me, that I cannot help my ſelf, by reaſon of your loſing<note n="*" place="margin">That Letter <hi>Ta<g ref="char:EOLhyphen"/>vernor</hi> ſtole from me, before he ran away with the reſt of the Things. But there were many Stories made about it.</note> the Letter out of your Pocket. Therefore you muſt come Home. I can ſay no more, but expecting to ſee you Home ſpee<g ref="char:EOLhyphen"/>dily, I remain,</p>
+                  <closer>
+                     <signed>
+                        <hi>SIR, Your Diſconſolate, but ever Affectionate faithful Friend till Death,</hi> Will. Warre.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="letter">
+               <head>Part of a Letter from Mr. <hi>Warre</hi> to Mr. <hi>Pendarves</hi> and my Self, being the laſt that he wrote us.</head>
+               <opener>
+                  <salute>SIRS,</salute>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>30th <hi>Jan.</hi> 1681/2.</date>
+                  </dateline>
+               </opener>
+               <p>AS this is a very Sad day, ſo my Subject is more— And alſo by the not coming Home of Mr. <hi>Praed,</hi> when I wrote to him ſo earneſtly, and told him ſo plainly, that otherwiſe it would be the Ruin of us all.—<note place="margin">After the Ships were gone.</note> Then I beg'd you to ſecure your ſelves againſt that Baſe Fellow <hi>Gates,</hi> whoſe Unfaithfulneſs in a great meaſure hath been the Occaſion of all our Misfortunes; but your neglecting that, to ſhew favour to ſuch a known Villain, was a Madneſs.<note place="margin">If my Throat had been Cut, th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, and the other Pretenſion would have ſtood him in good ſtead.</note> I have Paid on Mr. <hi>Praed</hi>'s Bills, l. 4500. Ster<g ref="char:EOLhyphen"/>ling and am not imburſed one farthing; for this unworthy <hi>Ga<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es</hi> keeps all in his hands, and ſaith, he will render an Account to Mr. <hi>Praed,</hi> and I cannot ſue him for fear of worſer Conſe<g ref="char:EOLhyphen"/>quences.—<note place="margin">For being prov'd Pe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jur<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d to the <hi>Turkey</hi>-Company.</note> I hope in God yet, upon Mr. <hi>Praed</hi>'s coming Home, all things may be accommodated; for, I Proteſt to God, I am almoſt out of my Senſes, and upon the Brink of Deſpair; which might have been all prevented, had Mr. <hi>Praed</hi> come home. I have been purſued by the <hi>Turkey</hi>-Company to the utmoſt Ruin
+<pb n="11" facs="tcp:38138:8"/>of Man, both in Point of Credit, and every thing elſe. In fine, I am quite diſtracted, and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>eart is quite broke. However, there is a God in Heaven, who knows my Since<g ref="char:EOLhyphen"/>rity to all Men.—</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>Williams</hi> to Mr. <hi>Bonnells.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>
+                     <hi>Venice,</hi> 
+                     <date>14th <hi>October</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>MR. <hi>Praed</hi> you will have ſeen departed for <hi>Zant,</hi> according to our Council to him,<note place="margin">This Mr. <hi>Williams,</hi> in his Wine, confeſs'd the whole Plot to me.</note> for that we apprehended his go<g ref="char:EOLhyphen"/>ing for <hi>England</hi> might (as you imagin'd) prove of Miſchievous Conſequence; and truly, what then we only ſuſpected, we now fear to be real. Wherefore we humbly conceive, you will do a worthy part to endeavour to prevent thoſe Evils threatning him— We have adventur'd (as a common Friend) thus freely to ſpeak our ſence.— We do not queſtion, but your Prudence will not only bury in ſecreſie this hint, but likewiſe direct you to ſuch Courſes, whereby our ſaid Friend at <hi>Zant,</hi> may have farther Proofs of your fatherly Kindneſs for him, and our ſelves that content of being deſirous of his Good,<note place="margin">And yet he did me all the ill Offices that lay in his Power.</note> and our Friend's Proſperity.</p>
+            </div>
+            <div type="letter">
+               <head>Part of an Intercepted Letter from Mr. <hi>Warre</hi> to Mr. <hi>Fran. Taverner.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>13th <hi>May,</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>I Have yours under Vitals Cover.— The <hi>African</hi> is bound out again upon the old Deſign. Wherefore order <hi>Lazari</hi> to pro<g ref="char:EOLhyphen"/>vide his Bows and Arrows, for this will be a Tryal of Skill, and muſt be manag'd with dexterity: But Mr. <hi>Fendarves</hi> know nothing of the Matter, that ſo he may always Plead Innocency. And pray endeavour by all means to keep him a Year or two longer there, that ſo I may have time to re-eſtabliſh all things to yours, and Mr. <hi>Yard</hi>'s Advantage; but if he comes home, I can do nothing for you.</p>
+               <p>I am heartily glad to hear that Mr. <hi>Praed</hi> is coming for <hi>Venice.</hi> 'Tis what I deſired. Tell him from me, (as a Friend, if he be not gone off) that, when he comes home, we will rout Sir <hi>Cle<g ref="char:EOLhyphen"/>ment Harby,</hi> Horſe and Foot, and that his Father (being a Par<g ref="char:EOLhyphen"/>liament Man) will make a heavy to do in the Houſe about his ill Uſage, as Mr. <hi>Pendarves</hi> his Father did, when he was like
+<pb n="12" facs="tcp:38138:9"/>to be Slain by the Proveditor, who thereupon was made to give him Satisfaction.—</p>
+            </div>
+            <div type="letters">
+               <head>Parts of two Letters from Mr. <hi>Gates</hi> to Mr. <hi>Pendarves</hi> and my Self.</head>
+               <div type="letter">
+                  <opener>
+                     <salute>SIRS,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>
+                           <hi>May</hi> 26th, 1682.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Have yours 13th <hi>October,</hi> and 22th <hi>February;</hi> and am Sorry you ſhould be any ways prejudiced for want of a juſt com<g ref="char:EOLhyphen"/>pliance with what is your due.— I ſhall wait your reply, and if you can give me Satisfaction, I reſolve to deal juſtly, by the Bleſſing of God, both with you, and all Men.</p>
+               </div>
+               <div type="letter">
+                  <opener>
+                     <salute>SIRS,</salute>
+                     <dateline>
+                        <hi>London,</hi> 
+                        <date>the 20th <hi>Octob.</hi> 1682.</date>
+                     </dateline>
+                  </opener>
+                  <p>I Have yours, 1ſt <hi>Octob.</hi>— The ſole Reaſon why I did not accept your Bill, was becauſe Mr. <hi>Warre</hi> refus'd to accept what was drawn on him. And whereas you hint that I am ſo great a Debtor to your Mr. <hi>Praed,</hi> I do not know of One Peny that I owe him in all the World. What hath paſs'd between him, and Mr. <hi>Warre</hi> about the Lading of the <hi>Old African</hi> in the <hi>Morea,</hi>
+                     <note place="margin">
+                        <hi>Gates</hi> kept the Cur<g ref="char:EOLhyphen"/>rans, and <hi>Warre</hi> kept the Accounts: and both kept me out of my Mo<g ref="char:EOLhyphen"/>ney.</note> I am ignorant of. I ſtill ſay, I have no Account, In<g ref="char:EOLhyphen"/>voyce, nor Bill of Lading for ſaid Goods; ſo that if Mr. <hi>Praed</hi> be any ways prejudiced, he may thank himſelf, and at laſt muſt find his Effects in the hands of Mr. <hi>Warre;</hi> who, I am afraid hath intrigu'd both me, and you too.— I add no more, but deſiring God to bleſs you, and keep you, and deliver you well out of the hands of Mr. <hi>Warre.</hi> I abide,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Loving Friend</hi> Dan. Gates.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="letter">
+               <head>Parts of ſome Letters from Mr. <hi>Pendarves</hi> to me.</head>
+               <p>
+                  <hi>Zant,</hi> 2 <hi>March,</hi> 1682.— I find <hi>Gates</hi> and <hi>Warre</hi> are both agreed to keep you out of your Right; and I the rather believe it, becauſe I hear that <hi>Gates</hi> his Servant is coming out into Partnerſhip with <hi>Warre</hi>'s Man <hi>Taverner.</hi>—</p>
+               <pb n="13" facs="tcp:38138:9"/>
+               <p>
+                  <hi>Zant,</hi> 15 <hi>April</hi> 1683.— I writ you alſo, That <hi>Taverner</hi> was ſuddenly bound out again from <hi>England</hi> to this place, and that he railed againſt his Maſter <hi>Warre</hi> moſt bitterly; but whether 'tis in Earneſt, or in Jeſt, I cannot tell.</p>
+               <p>
+                  <hi>Zant,</hi> 8 <hi>June</hi> 1683.— From <hi>Taverner</hi> there are ſeveral Letters to his Confederates here, ſtill railing (as they pretend) againſt the ill Treatment of his Maſter <hi>Warre;</hi> and yet he writes, That <hi>Gates</hi> his Man is coming out to be his Partner. They are all agreed, like a Company of <hi>&amp;c's.</hi> as they are.—</p>
+            </div>
+            <div type="letter">
+               <head>Part of a Letter from Mr. <hi>Pendarves,</hi> ſent by me to Mr. <hi>Warre.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>20th <hi>September</hi> 1682.</date>
+                  </dateline>
+               </opener>
+               <p>I Can hear Nothing from you but by daily Proteſts, as to which I ſhall ſay little, until I hear from the Bearer, who, (let People ſay what they pleaſe) hath done as much as Man could do for you; and if you render him Evil for ſo much Good, what in the Name of God will the World think of you? I think, ſince the Creation of the World never was the like Action committed by Merchants, as hath been committed by <hi>Gates,</hi> and you againſt him.—</p>
+               <p>And now I ſhall proceed to another Subject; namely, your Man Mr. <hi>Taverner. Harby,</hi> and he are now Sworn Brothers, and the reſt of the Fraternity are all his Favourers, though he hath been found Guilty of many Malefacts, and even of Preme<g ref="char:EOLhyphen"/>ditated Murder.—</p>
+               <p>Firſt, In deſigning to kill his Lady, Wife, or Whore, or what you pleaſe, two Years ſince, though he now lives publickly with her. And this was to be done by <hi>Pattore,</hi> and himſelf at a <hi>Salazza. Nat. Grantham</hi> (then his beloved, and now in our Houſe) was the firſt Diſcoverer thereof. And how many times he hath been the Occaſions of her <hi>Piſſing Bones,</hi> is beſt known to himſelf.—</p>
+               <p>And now let me come to tell you of another Plot of this Gentlemans, and that was to Murther Mr. <hi>Praed.</hi> And who ſhould be the Men to commit it, but <hi>Pattore, Speri,</hi> and <hi>Clathi,</hi> (Perſons well known to your ſelf.) <hi>Clathi,</hi> with others, was ſeen ſeveral times about the Houſe, with Piſtols, to diſpatch him. And if it could <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:38138:10"/>be executed as he ſlept in his Chamber, and by your Good Man Mr. <hi>Francis Taverner.</hi> To which end and purpoſe, he had made him a Pair of Shoes of Hat.— But you may very well queſtion how we came to hear of ſo many Particulars of the Buſineſs. Why, one of his own Confederates, even <hi>Pattore</hi> by Name, confeſſed all, and was thereafter Kill'd himſelf: Whereof the Bearer will give you a better account, and to him I refer you.—</p>
+            </div>
+            <div type="deposition">
+               <head>Part of the Depoſitions of <hi>William Ceely</hi> Gent. and of Signieur <hi>Eliezer Treveſe.</hi>
+               </head>
+               <p>William Ceely <hi>Gent. to the</hi> 3d, 4th, 5th, 7th, 8th <hi>and</hi> 10th <hi>Interrogatory, Depoſeth as followeth:</hi>
+               </p>
+               <p n="3">(3.) TO the Third Interrogatory, this Deponent ſaith, That he doth know Mr. <hi>Francis Taverner</hi> of <hi>Zant,</hi> and ſaith, that it was publickly reported, That the ſaid <hi>Taverner</hi> ſtole away Mr. <hi>Pendarves</hi>'s, and the now Complainant's Caſh-Books, and ſe<g ref="char:EOLhyphen"/>veral other Things out of their Houſe; And ſaith that he was pre<g ref="char:EOLhyphen"/>ſent, and heard the ſaid <hi>Taverner</hi> confeſs, and declare to the ſaid Mr. <hi>Pendarves,</hi> That he took the ſaid Books, and threw them out of a Window to a Porter, or ſome Perſon, who carried them away by his Order: Upon which, the ſaid Mr. <hi>Pendarves</hi> ask'd the ſaid <hi>Taverner,</hi> why he did ſo? To which he replied, That he had as much to do with the Books as the ſaid <hi>Pendarves</hi> had, for that he was intruſted by his Maſter (meaning the now Defendant <hi>Warre</hi>) and more ſaith not to this Interrogatory.</p>
+               <p n="4">(4.) To the Fourth Interrogatory this Deponent ſaith, That there being a Combination at <hi>Zant,</hi> between the ſaid <hi>Taverner,</hi> &amp; ſeveral other Factors there, to defraud their Principals, and the Complainant refuſing to be concerned in ſuch Ill Deſigns with them; and diſcovering the ſame, the ſaid <hi>Taverner,</hi> and ſeveral other Factors there, did, as much as in them lay, to Diſcredit the ſaid Complainant. And more ſaith not to this Interrogatory.</p>
+               <p n="5">(5.) To the Fifth Interrogatory this Deponent ſaith, That he doth know very well <hi>William Waite</hi> in this Interrogatory named, and enquired of, who is a Factor at <hi>Zant.</hi> And ſaith, That the ſaid Mr. <hi>Waite</hi> did Inform this Deponent, That the Defendant <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:38138:10"/>to ruin the ſaid Complainant; and the ſaid Mr. <hi>Pendarves.</hi> And that there was not any thing done in Prejudice of the ſaid Com<g ref="char:EOLhyphen"/>plainant, and the ſaid <hi>Pendarves,</hi> but what was done by the Order, or Approbation of the Defendant <hi>Warre,</hi> or to the very ſame Effect. And more ſaith not to this Interrogatory, ſaving that the ſaid <hi>Waite</hi> alſo told this Deponent, That he had ſeen a Letter from the Defendant <hi>Warre,</hi> to the ſaid <hi>Taverner;</hi> wherein he wrote, <hi>Be ſure you mind your Buſineſs there, and let me alone with the Aſſes here;</hi> or to that effect.</p>
+               <p n="7">(7.) To the Seventh Interrogatory this Deponent ſaith, That he doth very well know it was generally reported, That there was a Petition for the Baniſhment of the Complainant and Partner Mr. <hi>Pendarves.</hi> And this Deponent the better knoweth the ſame, for that he was at <hi>Zant,</hi> when the Complainant lived there, as a Factor; and this Deponent ſaith, That he doth verily believe that the Petition now produced and ſhewn to him this Deponent at this the time of his Examination, marked N<hi rend="sup">o</hi> 2. is the ſame Ori<g ref="char:EOLhyphen"/>ginal Petition. And ſaith, that he hath heard ſeveral Perſons in <hi>Zant</hi> declare, That they knew the Hand-writing of ſeveral Per<g ref="char:EOLhyphen"/>ſons whoſe Names are thereto Subſcribed, was of their own Hand-Writing. And this Deponent heard ſeveral Perſons tell the ſaid Complainant, and the ſaid Mr. <hi>Pendarves,</hi> of the ſaid now produ<g ref="char:EOLhyphen"/>ced Petition, and they promiſed them to get the Petition, if they could, from the Perſon that kept the ſame; which accordingly they did, and brought the ſame to the Complainant, and the De<g ref="char:EOLhyphen"/>ponent and another Perſon, Tranſlated the ſame into Engliſh. And this Deponent hath read over the ſaid Petition, and doth believe the Contents thereof to be true; It being the Duty of a Factor to act, as much as he can, for the Benefit, and Advantage, of his Principal; which this Deponent very well knows the Com<g ref="char:EOLhyphen"/>plainant did: And more ſaith not to this Interrogatory.</p>
+               <p n="8">(8.) To the Eighth Interrogatory this Deponent ſaith, That he Living with the Complainant at <hi>Zant,</hi> doth very well know that the Complainant was informed that the ſaid <hi>Taverner,</hi> and others, in Confederacy as aforeſaid, had a Deſign to Kill the Complainant, for that he diſvovered their Deſign of defrauding their Principals, as aforeſaid. And ſaith, That one <hi>Pattore</hi> (who confeſſed he was Imploy'd, with one <hi>Spery,</hi> and <hi>Clathy,</hi> by the ſaid <hi>Taverner,</hi> to Kill the Complainant) diſcovered the ſaid Deſign to the Complainant. And ſaith, That the ſaid <hi>Pattore</hi> was, ſome ſhort time after, Shot, and died thereby, for diſcovering the ſame. And ſaith, That the ſaid <hi>Spery</hi> did likewiſe Inform the Complainant of the ſaid Deſign <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:38138:11"/>they had to Kill him. And ſaith, That <hi>Taverner</hi> Promiſed them a Hundred Dollars to do the ſame. And further this Deponent ſaith, That the ſaid <hi>Taverner,</hi> in Diſcourſe with this Deponent, touching the ſaid Deſign of Killing the Complainant, ſaid, That the Rogue <hi>Pattore</hi> had already received God's Judgment for his Villany in diſcovering the ſame, and doubted not but <hi>Spery</hi> would alſo, and ſoon after the ſaid <hi>Spery</hi> was Killed. And more ſaith not to this Interrogatory.</p>
+               <p n="10">(10.) To the Tenth Interrogatory this Deponent ſaith, that he doth very well know <hi>Moſes Treveſe,</hi> Vice-Conſul for the Engliſh at <hi>Zant,</hi> in this Interrogatory named, and enquired of: And ſaith, That he hath credibly heard, and verily believes that the ſaid <hi>Moſes Treveſe</hi> was Aſſaulted, and Wounded, and in great danger of being Killed, for ſpeaking in Vindication of the Complainant; For this Deponent ſaith, That the ſaid <hi>Moſes Treveſe</hi> told this De<g ref="char:EOLhyphen"/>ponent, that about five Men ſet upon him in the Night time, and, if a Baniſh'd man Armed had not come in, he had been Killed. And more ſaith not to this Interrogatory; Saving that one <hi>Alex<g ref="char:EOLhyphen"/>ander Vitall,</hi> a Jew, told this Deponent, That one Mr. <hi>Tho. Cordell,</hi> a Factor, confeſſed to him, that he was the Cauſe of the ſaid Aſſault, on the ſaid <hi>Moſes Treveſe,</hi> and had given Orders for his being Killed, or at leaſt for the Cutting off one of his Hands; for that he ſpoke in the Praiſe, or Vindication of the Complainant.</p>
+               <p n="11">(11.) To the Eleventh Interrogatory this Deponent ſaith, That he doth very well know Mrs. <hi>Jefferyes,</hi> Wife of Mr. <hi>John Jeffe<g ref="char:EOLhyphen"/>ryes</hi> at <hi>Zam,</hi> in the Interrogatory named, and enquired of; And ſaith, That he being at the ſaid Mr. <hi>Jefferyes</hi> Houſe with him, and Mr. <hi>Cheſter Cordell,</hi> the ſaid Mrs. <hi>Jefferyes</hi> asked this Deponent if he had ſeen that Infamous Book of that Infamous Rogue your Kinſman Mr. <hi>Praed,</hi> meaning the now Complainant. The ſaid Mr. <hi>Praed,</hi> having wrote a Book to the Merchants at <hi>London,</hi> touch<g ref="char:EOLhyphen"/>ing the Deſign and Actions of the Factory at <hi>Zant</hi> to defraud their Principals Whereupon, the ſaid Mr. <hi>Jefferyes</hi> her Husband ſaid, He hath clawed us all of<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ſaith; Thereupon Mrs. <hi>Jefferyes</hi> ſaid, It is well he is gone for <hi>England,</hi> otherwiſe he ſhould not go without leaving that Arm behind him that wrote the ſaid Book. To which the ſaid Mr. <hi>Cheſter Cordell</hi> replied, Madam Have a care what you ſay, for if he comes here again, and any harm befalls him, you may be queſtioned for your words Unto which ſhe replied, Here again, No. no, he will never come here again; if he does, to be ſure <hi>Ca<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> and others, whom he hath Abuſed in his Infamous Book, will be revenged on him: And more ſaith not, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="deposition">
+               <pb n="17" facs="tcp:38138:11"/>
+               <head>
+                  <hi>Signior</hi> Eliezer Treveſe <hi>to the</hi> 3d, 4th, 6th, 7th, 8th, 9th, 10th <hi>Interrogatories, Depoſeth as followeth,</hi> viz.</head>
+               <p n="3">(3.) TO the Third Interrogatory this Deponent ſaith, That he was Servant to the Complainant, and lived with him at <hi>Zam.</hi>— And this Deponent doth very well know Mr. <hi>Francis Taverner.</hi>— And ſaith that it was publickly reported, That the ſaid <hi>Taverner</hi> ſtole away Mr. <hi>Pendarves</hi>'s, and the now Complai<g ref="char:EOLhyphen"/>nant's Caſh-Books, and ſeveral other things, out of their Houſe at <hi>Zant:</hi> And more ſaith not to this Interrogatory.</p>
+               <p n="4">(4.) To the Fourth Interrogatory this Deponent ſaith, That the ſaid Complainant was much diſcredited when he was at <hi>Zant,</hi> by the Factory there; for that he was honeſt, and juſt, and acted for the benefit, and good of his Principals, and refuſed to act other<g ref="char:EOLhyphen"/>wiſe, and to be concerned with them in a Combination, or Contri<g ref="char:EOLhyphen"/>vance, how to Cheat their Principals, and for that he diſcovered the ſame: And more ſaith not to this Interrogatory.</p>
+               <p n="6">(6.) To the Sixth Interrogatory this Deponent ſaith, That within a Year laſt paſt (as this Deponent remembers the time to be) he, this Deponent, meeting with the Complainant in <hi>London,</hi> the ſaid Complainant, and this Deponent went into the <hi>Swan-Tavern</hi> in <hi>Cornhil,</hi> and drank a Glaſs of Wine; and, as they came out of the Tavern, meeting with the Defendant <hi>Warre,</hi> the Complainant asked him, if he would drink a Glaſs of Wine? and the Defendant <hi>Warre</hi> ſaid, Yes, with all his heart; upon which, the ſaid Complainant and Defendant <hi>Warre,</hi> and this Deponent, went into the <hi>Swan-Tavern</hi> again; and, as they were drinking a Glaſs of Wine, the now Complainant very much complained of the Defendant <hi>Warre</hi>'s ill dealing with him, in keeping his Money from him. At firſt the Defendant <hi>Warre</hi> ſeemed to ſay, That he was not the only Perſon that wronged him; but ſoon afterwards the ſaid Defendent <hi>Warre</hi> declared, and ſaid, That all he had in the World, and himſelf, and putting his hand to his Throat, ſaid, and this too, lyes at your Service. And more ſaith not to this Interrogatory.</p>
+               <p n="7">(7.) To the Seventh Interrogatory this Deponent ſaith, that he doth know, that it was generally reported in <hi>Zant,</hi> That there was a Petition for the Baniſhment of the Complainant, and Partner, Mr. <hi>Pendarves,</hi> and this Deponent the better knows the ſame, for that he lived with the Complainant, when Factor there: And this Deponent verily believes that the Petition <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:38138:12"/>ſhewed to him, this Deponent, at this the time of his Examination, marked N<hi rend="sup">o</hi>. (2.) Is the ſame Original Petition; for this Depo<g ref="char:EOLhyphen"/>nent ſaith, That he is acquainted with the Hand-Writing of ſeve<g ref="char:EOLhyphen"/>ral Perſons, whoſe Names are thereto Subſcribed, and believes their Names thereto Subſcribed, are of their reſpective proper Hand-writing, and the reaſon of the ſaid now produced Petition was as this Deponent hath heard, and believes; becauſe the ſaid Complai<g ref="char:EOLhyphen"/>nant would not agree with the Factory, to wrong, and deceive their Principals. And more ſaith not to this Interrogatory.</p>
+               <p n="8">8. To the Eighth Interrogatory this Deponent ſaith, That he doth know that the Complainant was in danger of being Kill'd at <hi>Zant,</hi> by ſome Perſons, that ſome of the Factory had employed to do the ſame; becauſe the ſaid Complainant had diſcovered how the Factory wronged their Principals; and ſaith, That one <hi>Pattore,</hi> and <hi>Spery,</hi> two of the Perſons employed to Kill the Complainant, diſcovered the ſaid Deſign to the Complainant; and ſaith, That the ſaid <hi>Pattore</hi> was ſoon after ſhot, and died thereby, for his diſ<g ref="char:EOLhyphen"/>covering the ſame. And more ſaith not to this Interrogatory.</p>
+               <p n="9">(9.) To the Ninth Interrogatory this Deponent ſaith. That the Complainant and his Servants (immediately after the ſaid Diſco<g ref="char:EOLhyphen"/>very) did go Armed, in order to prevent the Complainant's be<g ref="char:EOLhyphen"/>ing Killed; and this Deponent, as one of the Complainant's Ser<g ref="char:EOLhyphen"/>vants, went Armed with him. And more ſaith not to this Inter<g ref="char:EOLhyphen"/>rogatory.</p>
+               <p n="10">(10.) To the Tenth Interrogatory this Deponent ſaith, That <hi>Moſes Treveſe,</hi> in this Interrogatory named, and enquired of, is this Deponent's Father; and this Deponent very well knoweth, that his ſaid Father was Aſſaulted, and Wounded, and in danger of loſing his Life, for ſpeaking in Vindication of the Complainant, and had one of his Fingers cut off and, if he had not ſtept back, had certainly been Killed. And more, to this Interrogatory, ſaith not.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>Pendarves.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>the 5th of <hi>June,</hi> 1683.</date>
+                  </dateline>
+               </opener>
+               <p>I Am told, that <hi>Taverner</hi> ſhould Write to his Friends here, that I ſhould Adviſe you of the Action done unto <hi>Moſes,</hi> which then I miſtruſted only was done by Mr. <hi>Cordell;</hi> but now it is certainly known that the ſaid <hi>Cordell</hi> was the Occa<g ref="char:EOLhyphen"/>ſion thereof for he hath not only confeſs'd it to his Friends,
+<pb n="19" facs="tcp:38138:12"/>but he alſo ſent a Meſſage by <hi>Vitall,</hi> to <hi>Moſes</hi> in a Vaunting Nature, to tell him ſo much, and that he merited more.</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from Mr. <hi>Ceely.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>
+                        <hi>May</hi> the 13th. 1683.</date>
+                  </dateline>
+               </opener>
+               <p>YOu may Peruſe my former Letters, ſpeaking of the great danger your Friend <hi>Moſes</hi> was in of loſing his Life. About four or five days ſince, <hi>Vitall</hi> told <hi>Moſes,</hi> that <hi>Cordell</hi> confeſs'd to him, that he was the Occaſion of that Aſſault, and that he had given Orders to <hi>Capſa</hi> to Kill him, or at leaſt to cut off one of his Hands, for that <hi>Moſes</hi> had diſcourſed baſely of him to the Captains, and told them, That there never came ſuch a Man upon the Place as— for that he had found out ſuch things, as never were diſcovered, and now all their Roguery did appear, and for many other things elſe, which he, the ſaid <hi>Cordell,</hi> was reſolved to be revenged on him for.—</p>
+            </div>
+            <div type="letter">
+               <head>A Letter from Sir <hi>John Buckworth</hi> to Sir <hi>Clement Harby,</hi> late Conſul of <hi>Zant.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>the 18th of <hi>March,</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>I Am now to acquaint you, That the <hi>Turkey</hi>-Company have writ His Majeſties Ambaſſadador; That they have choſen you Conſul of the <hi>Morea,</hi> and have deſired him to furniſh you with Barratts, and all other neceſſary Commands; ſo that, be<g ref="char:EOLhyphen"/>fore we have done we hope to make <hi>Warre</hi> repent of his Knavery; and, when <hi>Pendarves</hi> comes home, he muſt expect the like Pro<g ref="char:EOLhyphen"/>ceedings againſt him.— And as for <hi>Praed,</hi> the Company were but Yeſterday, very hardly, prevailed with to forbear making an Order, at the General Court, That no <hi>Turkey</hi>-Merchant ſhall Imploy him any more, as a Factor (either at <hi>Zant,</hi> or any where elſe) under the Penalty of Paying Twenty <hi>per Cent.</hi> on all Goo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s bought by him, and have only reſpited that Order for Five Months, upon his Maſter's Promiſe, That he ſhall acknowledge his Fault, and diſcover to the Company the whole Truth; which if he doth not, and ask their Pardon, if I hold the Place I am in, I ſhall miſs of my Mark, if I procure not ſuch an Act of Court againſt him.</p>
+            </div>
+            <div type="letter">
+               <pb n="20" facs="tcp:38138:13"/>
+               <head>A Letter without Date from M. <hi>Simon Baxter,</hi> Mercha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in <hi>London.</hi>
+               </head>
+               <p>I Have Three of yours before me, all Dated in <hi>October</hi> fro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Venice,</hi> which came ſafe to my hands at my Arrival at <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>noua;</hi> but I had not time to thank you for your great Civilitie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I waited upon your Maſter with your Letter. He deſired me walk into his Counting-Houſe; and having read what you wro<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he ſuppoſed I could give him a farther Account: At which was much ſurprized, you having not acquainted me with a<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thing you had written.</p>
+               <p>Then he asked me, what made you come from <hi>Zant</hi> to V<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nice? I told him, I heard you were Baniſhed, and, for what could underſtand, it was for nothing elſe but for being too Ze<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lous, and Faithful in ſerving them, and other Friends. I did <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>large my ſelf upon that Point, and told him how much I w<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſatisfied in your Juſtice, and Truth; and that if there was a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Honeſt Man living Abroad— At which, your good O<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Maſter ſmil'd, and ſaid, That he was infinitely ſatisfied in you Fidelity; and withal told me, That if I could give the ſame Ac<g ref="char:EOLhyphen"/>count to Sir <hi>John Buckworth,</hi> as I had given to him, I ſhould <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you a great deal of Service. I anſwered, that I ſhould be ve<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ready to ſerve you; but deſired his Excuſe in that, as not being ſo well acquainted with Sir <hi>John;</hi> but ſhould watch an Opportu<g ref="char:EOLhyphen"/>nity to Diſcourſe ſome Member of the <hi>Turkey</hi>-Company, th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> might poſſibly hand it to him. And accordingly I met wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sir <hi>William Royſton,</hi> my Kinſman, who is related to, and ver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intimate with, Sir <hi>John.</hi> And one Evening I met Sir <hi>William,</hi> an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>George Vanham,</hi> when I took occaſion to diſcourſe of you To which Mr. <hi>Vanham</hi> replied, That the <hi>Turkey</hi>-Company we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> very angry with you, and that a little before, Sir <hi>Samuel Daſh wood</hi> (a Member of that Company) ſhewed him a Copy of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Letter which (if it was true) demonſtrated you to be a very Ill Man,<note n="*" place="margin">
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Crime nor my Ac<g ref="char:EOLhyphen"/>cuſer.</note> and he feared you could not excuſe your ſelf.</p>
+               <pb n="21" facs="tcp:38138:13"/>
+            </div>
+            <div type="petition">
+               <head>A Tranſlation of the Petition for the Baniſhment of Mr. <hi>Pen<g ref="char:EOLhyphen"/>darves,</hi> and my ſelf, as it was Proved, and Read in the Court of <hi>Chancery.</hi>
+               </head>
+               <head>Moſt Illuſtrious Regiment, and moſt Worſhipful Magiſtrates of <hi>Zant,</hi>
+               </head>
+               <p>VVHereas the Foundation of the Suſtenance of the Sub<g ref="char:EOLhyphen"/>jects of <hi>Zant,</hi> conſiſts in the Sale of their Currans, <hi>from</hi> whence the Publick Eranio receives to great Profit, in reſpect of the Cuſtoms, the Publick Polity have made many Laws againſt the Plots that were laid, and executed by the Engliſh Merchants, in Prejudice of the ſaid Intereſt.</p>
+               <p>Amongſt the Merchants of that Nation, inhabiting this City, we find Mr. <hi>Pendarves,</hi> and his Partner to attend nothing more than to deſtroy this Trade, and make themſelves Maſters of the Livelihood of the People. So much have they done (omitting their former Actions) that laſt Year (the Samuel and Henry being conſigned to them) they borrowed Currans already Sold, hoping, for Repayment of the ſame, to have them at ſuch inconſiderable Prices, as themſelves ſhould propoſe.</p>
+               <p>The Year Currant, Mr. <hi>John Jefferyes,</hi> and Mr. <hi>Thomas Cor<g ref="char:EOLhyphen"/>dell,</hi> Cappar'd the <hi>Nathalico</hi> Currans, for the <hi>Morea</hi> Company, to be laden on the <hi>Britain.</hi> But the Ship, called the <hi>Old African,</hi> arriving before her,<note n="*" place="margin">This was a pre<g ref="char:EOLhyphen"/>tenſion of the Factors to Defame Mr. <hi>Pen<g ref="char:EOLhyphen"/>darves.</hi>
+                  </note> the ſaid <hi>Pendarves,</hi> and his Partner, ſent over Signior <hi>Lazari,</hi> upon the ſaid Ship, to load thoſe Currans, and thereby to lower the price of our Currans; which the ſaid <hi>Old African</hi> was, at firſt, intended to load. For the <hi>Britain,</hi> being an Unfree ſhip, was forced to depart, almoſt empty, to the moſt No<g ref="char:EOLhyphen"/>torious Detriment of the Publick, and conſiderable Diſadvantage of the Private Intereſt.</p>
+               <p>Nor did the Coutrivance of that Houſe, againſt theſe Iſlands,<note place="margin">This was to ſtir up the Mob.</note> end here, but they had formed a Plot to Infect the People with the Plague, that to the fear thereo might force them to Sell their Fruit, at Ten, or Twelve Dollars a Thouſand; for a Ship called the <hi>Zantiot,</hi> which they Threatened, and would Adventure to Detain <hi>until Auguſt</hi> next, on purpoſe to lower the Price. Notwithſtanding that, on the Seventh of that Month, Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Cordell</hi> bought<note n="*" place="margin">By a Sham Con<g ref="char:EOLhyphen"/>tract.</note> at Nineteen, though the Ship, intended to load them, was not yet arrived; as that of <hi>Pendarves,</hi> and <hi>Praed</hi> was, who declared, that the Ship ſhould ſtay for New
+<pb n="22" facs="tcp:38138:14"/>Currans, if we would not Sell the Old, as aforeſaid. The which aſtoniſhed the Inclination of the reſt of the Engliſh Fa<g ref="char:EOLhyphen"/>ctors, who expected Ships likewiſe; and will not only be a great Prejudice to the Price of the New (there being above a Million and half of the Old) Currans unſold,<note place="margin">They pretended at firſt 50 <hi>Dollars</hi> a Thou<g ref="char:EOLhyphen"/>ſand, and we bought them at laſt for 12.</note> but will alſo prove a very Conſiderable Loſs to the Publick Patrimony; for as much as the Fiſchal Chamber will loſe much the more of the Publick Impoſts.</p>
+               <p>Now the Conſpiracies, Villanies, and Intreagues of this Nature, which Mr. <hi>Pendarves,</hi> and his Partner, carry on, do make the whole Iſland Exclaim againſt them, and Neceſſitate Vs under-written to approach the Preſence of your moſt Illuſtrious Gravity, to repreſent the Grievances thereof, making moſt humble Inſtance that Sig<g ref="char:EOLhyphen"/>nior <hi>Michel Mounigo,</hi> and Signior <hi>Giacoma Sciuro,</hi> Ambaſſa<g ref="char:EOLhyphen"/>dors choſen by our moſt Worſhipful Community, may have Or<g ref="char:EOLhyphen"/>ders, from this Magnificent Council, to appear at the Feet of the Publick Majeſty, and, in the Name of Vs, and the whole Iſland, to Implore, that there may be a Decree made by the moſt Excellent Senate of <hi>Venice,</hi> for the Baniſhment of that Houſe from theſe Iſlands; That ſo they may never more be Admitted into the Trade thereof.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Conſtantin Minotto, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Anaſtaſio Siquro, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zanne Bernardachi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Siliveſtro Raftopullo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Coſtantin Macri, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Theodoro Gubeno, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Michel Mandricardi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Stellio Raftopullo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Draco Mateſſi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Antonio Barſſo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Carlo Mocenigo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Conſtantin Logotheti, <hi>ſup quanto diſopra.</hi>
+                        </item>
+                        <item>Nicolo Mandricardi K<hi rend="sup">r</hi>. <hi>ſuplico.</hi>
+                        </item>
+                        <item>Antonio Boldu, <hi>ſuplico.</hi>
+                        </item>
+                        <pb n="23" facs="tcp:38138:14"/>
+                        <item>Nicolo Calofono, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Coſmo Maneſſi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Stamatelo Servo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Anaſtaſio Micano, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Logotheti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zorzi Draco, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Sicuro, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Aloiſio Soliman, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Soliman, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Anaſtaſio di Garzoni, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Agiapoſtolititi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Mocénigo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Diego di Zuffi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Euſtachio Logotheti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Andrea de Garzoni, <hi>ſuplico.</hi>
+                        </item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</item>
+                        <item>Aluiſe Romanzan, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Anaſtaſio Barbiani, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Gio. Franciſco Mendino, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Euſtachio Meliſurgo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Barbiani, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zorzi Sicuro, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giacomo Sicuro, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giacomo Sumachi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giacomo Chriſoplevri, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zorzi Cacomali, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giorgio Zeleman, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Marco Venturin, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Domenico Gambara <hi>ſuplico quanto diſopra.</hi>
+                        </item>
+                        <item>Paulo de Zuffi, <hi>ſuplico.</hi>
+                        </item>
+                        <pb n="24" facs="tcp:38138:15"/>
+                        <item>Anzolo Locadello, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Lefcochelo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Baſeglio Barbiani, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Vizenzo Minotto, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Logotheti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giorgio Rafti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Stamatela Ruſſo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Bortolomeo Belloni, <hi>ſuplico.</hi>
+                        </item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</item>
+                        <item>Zorzi Rucani, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Strizolio Summachi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuane Trompetti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuane Belliatti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Stamati Scordili, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Antonio Da<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>agliaro, <hi>ſuplico.</hi>
+                        </item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</item>
+                        <item>Carlo Pupillo Colla, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Balſamo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Belliſario Catellano, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Anaſtaſio Tuſelo, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Giacomo Pellicano, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Theodoro Stavrachi, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Nicolo Milioti, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Cannello Mauritio, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Motta, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Zuanne Papadopulla, <hi>ſuplico.</hi>
+                        </item>
+                        <item>Aluife Trompetti, <hi>ſuplico quanto di ſopra</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="25" facs="tcp:38138:15"/>
+               <head>Part of a Letter from Mr. <hi>Warre</hi> about the Ships Lading, for which the precedent Petition was preferr'd for our Baniſh<g ref="char:EOLhyphen"/>ment.</head>
+               <opener>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>5th <hi>August,</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>I Obſerve what you have reſolved on about the <hi>Zantiot,</hi> which I, and all the World here, do mightily approve of.</p>
+            </div>
+            <div type="letter">
+               <head>Part of a Letter, from Signior <hi>Coſma,</hi> (a Cunning <hi>Zantiot</hi>) ſent by me to his Quondam Friend, and great Acquaintance Mr. <hi>William Warre,</hi> when the ſaid Mr. <hi>Warre</hi> Wrote to me to come to <hi>Venice,</hi> and from thence Home. I ſuſpected the Im<g ref="char:EOLhyphen"/>portance thereof, and found it was written by the Antiphraſis of his Fancy, to render my Condition ridiculous to him that made it ſo; and not according to the Pretenſions of the Stile.</head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>5 <hi>Nov.</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>THough you will have all the News from Mr. <hi>Praed,</hi> the Bearer hereof; yet I alſo muſt tell you, <hi>Che per mano del medeſimo è della ſua gran ſapienza</hi> (as he Ironically calls it) <hi>habiamo perſo tutte le noſtre ſoſtanze.</hi> I alſo, in particular, am a Sufferer, by his keeping the <hi>Zantiot,</hi> about Three Months in Port, a Trick that was never Played here, to take our Currans from us at ſo baſe a Price. I had thought once to have ſent mine to you for my own Account, <hi>Se bene tanto mi ſarebe andata in fumo Mandarla,</hi>
+                  <note place="margin">They are his own words.</note> 
+                  <hi>come haverla venduta à queſto Signior</hi> Praed; <hi>Per che tanto ſarai ſcotato coſta, quanto che mi ſono Bruſato da queſto Signiore.</hi>— I recommend it to you, as a Favour to us, that, at his Arrival, you would procure, by all means, to keep him there,<note place="margin">He ſpake and acted better ſence and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> than he writ here.</note> 
+                  <hi>e darli altri Impiegi, in altri Negotii, piu grandi, per altri paeſi;</hi> for we are Poor enough already, and all this Gentleman's Study, and Application, is to make us more Miſerable. When you lived here, we prayed for your Departure, and your Abſence, and truly it happened ac<g ref="char:EOLhyphen"/>cordingly, to our great Conſolation; but could you not therefore ſend us a worſer Plague than this, <hi>Tanto nel racomando per gratia, quanto peſſo, che nou ſi laſcia a tornare in queſta Caſa.</hi>—</p>
+            </div>
+            <div type="letter">
+               <pb n="26" facs="tcp:38138:16" rendition="simple:additions"/>
+               <head>A Letter from Mr. <hi>Ceely.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>
+                        <hi>April</hi> the 10th, 1683.</date>
+                  </dateline>
+               </opener>
+               <p>SInce you went hence, and could regain ſo little Credit at Home, all things are tranſacted openly, which were carried on before with ſo much ſecreſie, and Cunning; and 'tis as Won<g ref="char:EOLhyphen"/>derful, as it is Shameful, to ſee how they value themſelves on their <hi>Out-witting</hi> the Merchants, and thoſe that have adventured ſo far on their Accounts, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>The Concluſive Part of a Letter from Mr. <hi>Pendarves,</hi> writ<g ref="char:EOLhyphen"/>ten a little before the Diſuniting of <hi>The Union,</hi> and <hi>the</hi>
+                  <note n="*" place="margin">The <hi>Octo</hi> were Eight Merchants, who joyned with the Factors of <hi>Ve<g ref="char:EOLhyphen"/>nice,</hi> and <hi>Zant,</hi> and made up <hi>The Union</hi> (as they call'd it) to Ingroſs all the Currans, notwith<g ref="char:EOLhyphen"/>ſtanding they were pre<g ref="char:EOLhyphen"/>adviſed of an Intention, at <hi>Zant,</hi> &amp;c. to trick them, which broke <hi>The Octo</hi> all to pieces.</note> 
+                  <hi>Octo;</hi> Names well known upon the <hi>Exchange</hi> of <hi>London.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Zant,</hi> 
+                     <date>the 3d of <hi>Sept.</hi> 1684.</date>
+                  </dateline>
+               </opener>
+               <p>— And now, or never, is the time for you to make appear to all in <hi>England,</hi> the Sincerity of your Actions here at <hi>Zant,</hi> which by me ſhall not be done, they having been already too incredulous to our Reports in times paſt.—</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38138:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
